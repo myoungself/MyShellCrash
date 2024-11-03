@@ -16,11 +16,11 @@
 498 本地服务器 http://127.0.0.1:25500  
    
 501 Acl4SSR全能优化版 https://github.com/myoungself/MyShellCrash/raw/my_quanx/rules/ShellClashMY.ini (推荐)
-502 Acl4SSR精简优化版 https://github.com/juewuy/ShellCrash/raw/master/rules/ShellClash_Mini.ini (推荐)
-503 Acl4SSR全能优化+去广告增强 https://github.com/juewuy/ShellCrash/raw/master/rules/ShellClash_Block.ini  
-504 Acl4SSR极简版 https://github.com/juewuy/ShellCrash/raw/master/rules/ShellClash_Nano.ini (适合自建节点)
-505 Acl4SSR分流&游戏增强 https://github.com/juewuy/ShellCrash/raw/master/rules/ShellClash_Full.ini  
-506 Acl4SSR分流&游戏&去广告增强 https://github.com/juewuy/ShellCrash/raw/master/rules/ShellClash_Full_Block.ini (低性能设备慎用)
+502 Acl4SSR精简优化版 https://github.com/myoungself/MyShellCrash/raw/my_quanx/rules/ShellClash_Mini.ini (推荐)
+503 Acl4SSR全能优化+去广告增强 https://github.com/myoungself/MyShellCrash/raw/my_quanx/rules/ShellClash_Block.ini  
+504 Acl4SSR极简版 https://github.com/myoungself/MyShellCrash/raw/my_quanx/rules/ShellClash_Nano.ini (适合自建节点)
+505 Acl4SSR分流&游戏增强 https://github.com/myoungself/MyShellCrash/raw/my_quanx/rules/ShellClash_Full.ini  
+506 Acl4SSR分流&游戏&去广告增强 https://github.com/myoungself/MyShellCrash/raw/my_quanx/rules/ShellClash_Full_Block.ini (低性能设备慎用)
 507 洞主规则精简版 https://gist.githubusercontent.com/tindy2013/1fa08640a9088ac8652dbd40c5d2715b/raw/lhie1_clash.ini  
 508 洞主规则重度完整版 https://gist.githubusercontent.com/tindy2013/1fa08640a9088ac8652dbd40c5d2715b/raw/lhie1_dler.ini  
 509 Acl4SSR多国精简 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini_MultiCountry.ini 

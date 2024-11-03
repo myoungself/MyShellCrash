@@ -173,7 +173,7 @@ put_save() { #推送面板选择
 }
 get_bin() { #专用于项目内部文件的下载
 	. "$CRASHDIR"/configs/ShellCrash.cfg >/dev/null
-	[ -z "$update_url" ] && update_url=https://fastly.jsdelivr.net/gh/juewuy/ShellCrash@master
+	[ -z "$update_url" ] && update_url=https://fastly.jsdelivr.net/gh/myoungself/MyShellCrash@my_quanx
 	if [ -n "$url_id" ]; then
 		[ -z "$release_type" ] && release_type=master
 		if [ "$url_id" = 101 -o "$url_id" = 104 ]; then
